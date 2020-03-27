@@ -2,22 +2,22 @@
 
 
 
-<img src="66DA5CC7-E480-4B52-ACED-9B6EA5BE36CF_4_5005_c.jpe" alt="fondo de la empreSA">
+<img src="https://scontent.fctg2-1.fna.fbcdn.net/v/t1.0-9/91286999_754417475085626_1736115382650929152_n.jpg?_nc_cat=108&_nc_sid=8024bb&_nc_oc=AQmdlp_3TV0rtE7f8cOx6QvOiI__PaVhVLs7pmAYHxmBGXTkoZrIc60SMkvB19b_4Lg&_nc_ht=scontent.fctg2-1.fna&oh=8c7c2c90373e63c321447b209ced2eb5&oe=5EA25755" alt=icono de la empresa">
 
 
-<p1>Introduction<p/1>
+<strong>Introduction</strong>
 
 <p>Tax Hippocampoi is a company dedicated to great service in the city of Barranquilla; As the mighty Poseidon who was always traveling the seven seas on a carriage pulled by Hippokapoies, we want every customer to feel like a god with our outstanding service.
 </p>
 
-<p1>Current Situation<p/1>
+<strong>Current Situation</strong>
 
 <p>Currently, the company has multiple taxi stations around the city of Barranquilla, each one in a strategic location to cover the whole city and provide fast and efficient service. Each Station is operated by a single person, who registers each Taxi when they arrive, and dispatches a Service when a Passenger arrives according to their needs and the Taxi number in line.</p>
 
 <p>Our biggest challenge is with some locations where Passengers require a large trunk for storing groceries or baggage from a trip, the Station Operator, needs to go Cab by Cab, asking who has a large trunk for Passengers with baggage, which takes a lot of time when there are dozens of taxis, and gives our customers an impression of bad service.</p>
 
 
-<p2>Our Vision</p2>
+<strong>Our Vision<strong>
 
 <p>Our main goal for this project is to optimize the Response Time, Service Quality and overall experience for our customers. Being able to assign a Taxi Service to a customer according to their needs and keeping the Taxi Station Operator informed about the status of the Taxis available is the main reason for this project.</p>
 

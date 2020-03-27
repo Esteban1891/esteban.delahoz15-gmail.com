@@ -23,19 +23,24 @@
 
 <strong>Rules:</strong>
 
-<p>-The team must deliver a library, we only need the Logic to handle multiple taxis and multiple customers for a single taxi station
--The team must add a test directory with multiple tests of different situations
--The messages for the Station Operator must be en English
--The maximum amount of taxis per Taxi Station is 73
--When a customer needs a Taxi with a trunk, the system must find the first available taxi with a trunk and assign the service, skipping the waiting line.
--When a new taxi arrives, it must be added to the waitlist
--The Station Operator must know the remaining amount of taxis after each Service Assignation
--When the Taxi Wait Line only has 10 Taxis, a message should be returned saying: “Please request more Taxis to this location”</p>
+<p1>-The team must deliver a library, we only need the Logic to handle multiple taxis and multiple customers for a single taxi station</p1>
+<p1>-The team must add a test directory with multiple tests of different situations</p1>
+
+<p1>-The messages for the Station Operator must be en English</p1>
+<p1>-The maximum amount of taxis per Taxi Station is 73</p1>
+<p1>-When a customer needs a Taxi with a trunk, the system must find the first available taxi with a trunk and assign the service, skipping the waiting line.</p1>
+<p1>-When a new taxi arrives, it must be added to the waitlist</p1>
+<p1>-The Station Operator must know the remaining amount of taxis after each Service Assignation</p1>
+<p1>-When the Taxi Wait Line only has 10 Taxis, a message should be returned saying: “Please request more Taxis to this location”</p>
 
 
 
 <strong>Autors</strong>
 
 -Esteban De La Hoz.
+
+
 -Eduado Vega.
+
+
 -Adrian De La Asunción.

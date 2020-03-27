@@ -2,7 +2,7 @@
 
 
 
-<img src="https://scontent.fctg2-1.fna.fbcdn.net/v/t1.0-9/91286999_754417475085626_1736115382650929152_n.jpg?_nc_cat=108&_nc_sid=8024bb&_nc_oc=AQmdlp_3TV0rtE7f8cOx6QvOiI__PaVhVLs7pmAYHxmBGXTkoZrIc60SMkvB19b_4Lg&_nc_ht=scontent.fctg2-1.fna&oh=8c7c2c90373e63c321447b209ced2eb5&oe=5EA25755" alt=icono de la empresa">
+<img src="https://images.assetsdelivery.com/compings_v2/alekseyvanin/alekseyvanin1902/alekseyvanin190200398.jpg" alt="icono de la empresa">
 
 
 <strong>Introduction</strong>
